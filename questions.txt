@@ -1,0 +1,13 @@
+Ping Identity
+
+Where are the RPM packages to do an installation?
+How can I possibly trust a zip file for the installation bits?
+Can I use the reference architecture JVM/JRE to run Ping? (is this configuration supported)
+How do I run Ping as a non-root user?
+How do I run Ping in a chroot jail?
+Do you seriously have a service daemon that requires a local user account WITH LOGIN permissions to run your software?
+Can I set /bin/nologin for the shell of the Ping service account? (is this supported)
+What about PostgreSQL support?
+What about eDirectory support?
+What about older “Sun Directory Server” support?
+What about Directory 389 support?
